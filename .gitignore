@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyTorch  model files
+*.pth
+*.pt
+*.safetensors
+
+# Data
+Cat_Dog_data/
+Cat_Dog_data/**
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
